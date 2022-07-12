@@ -2,7 +2,7 @@
 
 Crypto Currency live price showing web app built using React, Typescript, Firebase, Zustand, Material UI and ChartJS.
 
-It shows price variation graph of last 24 hours/1 month/3 months/1 years too!!
+It shows price variation graph of last 24 hours/1 month/3 months/1 year too!!
 
 To see the watchlist feature login and add some coin to the watchlist and click on avatar.
 
